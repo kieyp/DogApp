@@ -1,0 +1,12 @@
+#breed {
+  display: block;
+  min-height: 100vh;
+  padding: 0px;
+  background-color: darkcyan;
+  padding-top: 50px;
+  padding-left: 150px;
+}
+.header {
+  background-color: rgb(225, 235, 225);
+  color: rgb(2, 20, 20);
+}
